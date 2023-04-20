@@ -1,6 +1,6 @@
 # Node-Js-API-masterclass
 
-## Course Modelled from [Udemy](https://www.udemy.com/course/nodejs-api-masterclass/learn/lecture/16581628#overview)
+## Project Modelled from [Udemy](https://www.udemy.com/course/nodejs-api-masterclass/learn/lecture/16581628#overview)
 
 <br>
 Node.js is a server-side platform built on Chrome's JavaScript runtime, which allows developers to build network applications quickly and efficiently. An API, or application programming interface, is a set of protocols, routines, and tools for building software applications. In the context of Node.js, an API typically refers to a set of HTTP-based endpoints that allow developers to interact with the server-side code using a variety of client-side technologies, such as web browsers, mobile apps, or other servers.
